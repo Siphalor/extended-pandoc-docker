@@ -1,6 +1,8 @@
-# Extended Pandoc Docker image ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/siphalor/extended-pandoc)
+# Extended Pandoc Docker image [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/siphalor/extended-pandoc)](https://hub.docker.com/r/siphalor/extended-pandoc)
 
 This is a pandoc docker image supporting latex building and pre-packaging a few useful extensions.
+
+Report issues or suggest features at [GitHub](https://github.com/Siphalor/extended-pandoc-docker/issues).
 
 Currently the following extensions are included:
 
