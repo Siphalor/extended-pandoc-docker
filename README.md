@@ -8,6 +8,7 @@ Currently the following extensions are included:
 
 - [`pandoc-acro`](https://github.com/kprussing/pandoc-acro), licensed as [`BSD 2-Clause "Simplified" License"`](https://github.com/kprussing/pandoc-acro/blob/trunk/LICENSE.rst)
 - [`pandoc-crossref`](https://github.com/lierdakil/pandoc-crossref), licensed as [`GNU General Public License v2.0`](https://github.com/lierdakil/pandoc-crossref/blob/master/LICENSE)
+- [`pandoc-include`](https://github.com/DCsunset/pandoc-include), licensed as [`MIT License`](https://github.com/DCsunset/pandoc-include/blob/master/LICENSE)
 
 # License
 
